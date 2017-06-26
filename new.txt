@@ -1,1 +1,5 @@
 Jun Saiki 
+
+if( b=2 ){
+  camera.pos.x=9;
+}
