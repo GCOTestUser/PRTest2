@@ -1,2 +1,5 @@
  終了
 END
+
+public Camera camera;
+
